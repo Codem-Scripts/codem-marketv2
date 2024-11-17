@@ -1,0 +1,72 @@
+@media screen and (width: 2720px) and (height: 768px) {
+    .shop-body {width: 1049px !important; height: 678px !important;}
+    .btn-template-categories > p {font-size: 76% !important;}
+    .user-info > p {font-size: 18px !important;}
+    .item-price > .price {padding-top: 0.2rem !important;}
+    .item-name-categories{padding-top: 0.3rem !important;}
+    .my-card-word{font-size: 17px !important;}
+}
+
+@media screen and (width: 2048px) and (height: 768px) {
+    .shop-body {width: 1124px !important; height: 700px !important;}
+    .btn-template-categories > p {font-size: 76% !important;}
+    .user-info > p {font-size: 18px !important;}
+    .item-price > .price {padding-top: 0.2rem !important;}
+    .item-name-categories{padding-top: 0.3rem !important;}
+    .my-card-word{font-size: 17px !important;}
+}
+
+@media screen and (width: 1600px) and (height: 900px) {
+   .shop-body {width: 1124px !important; height: 700px !important;}
+   .btn-template-categories > p {font-size: 76% !important;}
+   .user-info > p {font-size: 18px !important;}
+   .item-price > .price {padding-top: 0.2rem !important;}
+   .item-name-categories{padding-top: 0.3rem !important;}
+   .my-card-word{font-size: 17px !important;}
+}
+
+ @media screen and (width: 1440px) and (height: 900px) {
+    .shop-body {width: 1124px !important; height: 700px !important;}
+   .btn-template-categories > p {font-size: 76% !important;}
+   .user-info > p {font-size: 18px !important;}
+   .item-price > .price {padding-top: 0.2rem !important;}
+   .item-name-categories{padding-top: 0.3rem !important;}
+   .my-card-word{font-size: 17px !important;}
+}
+
+ @media screen and (width: 1400px) and (height: 1050px) {
+    .shop-body {width: 1124px !important; height: 700px !important;}
+   .btn-template-categories > p {font-size: 76% !important;}
+   .user-info > p {font-size: 18px !important;}
+   .item-price > .price {padding-top: 0.2rem !important;}
+   .item-name-categories{padding-top: 0.3rem !important;}
+   .my-card-word{font-size: 17px !important;}
+}
+
+ @media screen and (width: 1366px) and (height: 768px) {
+    .shop-body {width: 1124px !important; height: 700px !important;}
+    .btn-template-categories > p {font-size: 76% !important;}
+    .user-info > p {font-size: 18px !important;}
+    .item-price > .price {padding-top: 0.2rem !important;}
+    .item-name-categories{padding-top: 0.3rem !important;}
+    .my-card-word{font-size: 17px !important;}
+}
+
+ @media screen and (width: 1360px) and (height: 768px) {
+    .shop-body {width: 1124px !important; height: 700px !important;}
+    .btn-template-categories > p {font-size: 76% !important;}
+    .user-info > p {font-size: 18px !important;}
+    .item-price > .price {padding-top: 0.2rem !important;}
+    .item-name-categories{padding-top: 0.3rem !important;}
+    .my-card-word{font-size: 17px !important;}
+}
+
+  @media screen and (width: 1280px) and (height: 720px) {
+    .shop-body {    width: 999px !important; height: 611px !important;}
+    .pay-with-card > p, .pay-with-cash > p {font-size: 13px !important;}
+    .btn-template-categories > p {font-size: 74% !important;}
+    .user-info > p {font-size: 18px !important;}
+    .item-price > .price {padding-top: 0.2rem !important;}
+    .item-name-categories{padding-top: 0.3rem !important;}
+    .my-card-word{font-size: 17px !important;}
+}
